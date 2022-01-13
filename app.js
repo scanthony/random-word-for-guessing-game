@@ -10,7 +10,7 @@
   }    
 })()
 
-var cacheName = '川图猜词';
+var cacheName = '畅玩猜词';
 var filesToCache = [
 '/index.html',
 '/style.css',
@@ -35,7 +35,12 @@ word_list = ["短语1",
           "短语2",
           "短语3",
           "短语4",
-          "短语5"]
+          "短语5",
+		  "短语6",
+          "短语7",
+          "短语8",
+          "短语9",
+          "短语0",]
 
 ind = -1
 
